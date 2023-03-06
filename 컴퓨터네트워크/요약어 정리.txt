@@ -1,0 +1,36 @@
+<1주차>
+IoT -> Internet of Things
+ICBM -> IoT, Cloud, Bigdata, Mobile
+IoE -> Internet of Everything
+Saas -> Software as a Service
+Paas -> Platform as a Service
+Iaas -> Infrastructure as a Service
+AI -> Artificial Intelligence
+ML -> Machine Learning
+DL -> Deep Learning
+ISDN -> Integrated Service DIgital Network
+순천향대학교 -> SoonChunhyang university
+
+※ABCD -> Ai, Blockchain, Cloud, Data
+
+<2주차>
+ASCII -> American Standard Code for Information Interchange
+EBCDIC -> Extended Binary Coded Decimal Interchange Code
+VRS -> Video Response System
+SAGE -> Semi-Automatic Ground Envirinment
+SABRE -> Semi-Automatic Business Research Environment
+ARPANET -> Advanced Research Project Agency Network
+DTE -> Data Terminal Equipment
+DCE -> Data Communication Equipment
+MODEM -> Modulation Demodulation
+DSU -> Digital Service Unit
+CSU -> Channel Service Unit
+HDLC -> High-level Data Link Control
+SDLC -> Synchronous Data Link Control
+FCS -> Frame Check Sequence
+EDI -> Electronic Data Interchange
+FTP -> File Transfer Protocol
+OSI -> Open System Interconnection
+SNA -> Systems Network Architecture
+TCP/IP -> Transmission Control Protocol/Internet Protocol
+RFC -> Request For Comments
