@@ -34,3 +34,24 @@ OSI -> Open System Interconnection
 SNA -> Systems Network Architecture
 TCP/IP -> Transmission Control Protocol/Internet Protocol
 RFC -> Request For Comments
+PAN -> Personal Area Network
+LAN -> Local Area Network
+MAN -> Metropolitan Area Network
+WAN -> Wide Area Network
+EFT -> Electronic Fund Transfer
+ISO -> International Standardization Organization(정식 명칭: International Organization for Standardization)
+TC -> Technical Committee
+SC -> Sub-Committee
+WG -> Working Group
+IEC -> International ElectrotechnicalCommission
+NWI -> New Work Item
+WD -> Working Draft
+CD -> Committee Draft
+DIS -> Draft International Standard
+IS -> International Standard
+ITU-T -> International Telecommunication Union - Telecommunication standardization sector
+ANSI -> American National Standards Institute
+IEEE -> Institute of Electrical and Electronics Engineers
+EIA -> Electronic Industries Association
+TTA -> Telecommunications Technology Association
+KICS -> Korean Information and Communication Standards
