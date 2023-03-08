@@ -17,29 +17,29 @@ ISDN -> Integrated Service DIgital Network
 ASCII -> American Standard Code for Information Interchange
 EBCDIC -> Extended Binary Coded Decimal Interchange Code
 VRS -> Video Response System
-SAGE -> Semi-Automatic Ground Envirinment
+SAGE -> Semi-Automatic Ground Envirinment //
 SABRE -> Semi-Automatic Business Research Environment
 ARPANET -> Advanced Research Project Agency Network
-DTE -> Data Terminal Equipment
+DTE -> Data Terminal Equipment //
 DCE -> Data Communication Equipment
-MODEM -> Modulation Demodulation
+MODEM -> Modulation Demodulation //
 DSU -> Digital Service Unit
 CSU -> Channel Service Unit
-HDLC -> High-level Data Link Control
+HDLC -> High-level Data Link Control //
 SDLC -> Synchronous Data Link Control
 FCS -> Frame Check Sequence
 EDI -> Electronic Data Interchange
 FTP -> File Transfer Protocol
-OSI -> Open System Interconnection
+OSI -> Open System Interconnection //
 SNA -> Systems Network Architecture
-TCP/IP -> Transmission Control Protocol/Internet Protocol
-RFC -> Request For Comments
+TCP/IP -> Transmission Control Protocol/Internet Protocol //
+RFC -> Request For Comments //
 PAN -> Personal Area Network
-LAN -> Local Area Network
+LAN -> Local Area Network //
 MAN -> Metropolitan Area Network
 WAN -> Wide Area Network
 EFT -> Electronic Fund Transfer
-ISO -> International Standardization Organization(정식 명칭: International Organization for Standardization)
+ISO -> International Standardization Organization(정식 명칭: International Organization for Standardization) //
 TC -> Technical Committee
 SC -> Sub-Committee
 WG -> Working Group
@@ -50,8 +50,10 @@ CD -> Committee Draft
 DIS -> Draft International Standard
 IS -> International Standard
 ITU-T -> International Telecommunication Union - Telecommunication standardization sector
-ANSI -> American National Standards Institute
+ANSI -> American National Standards Institute //
 IEEE -> Institute of Electrical and Electronics Engineers
 EIA -> Electronic Industries Association
 TTA -> Telecommunications Technology Association
 KICS -> Korean Information and Communication Standards
+SNS -> Social Network Service
+부모님, 본인이름 학교 한자도 적기
