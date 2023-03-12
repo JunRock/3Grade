@@ -8,7 +8,7 @@ Iaas -> Infrastructure as a Service
 AI -> Artificial Intelligence
 ML -> Machine Learning
 DL -> Deep Learning
-ISDN -> Integrated Service DIgital Network
+ISDN -> Integrated Service Digital Network
 순천향대학교 -> SoonChunhyang university
 
 ※ABCD -> Ai, Blockchain, Cloud, Data
@@ -40,7 +40,7 @@ MAN -> Metropolitan Area Network
 WAN -> Wide Area Network
 EFT -> Electronic Fund Transfer
 ISO -> International Standardization Organization(정식 명칭: International Organization for Standardization) //
-TC -> Technical Committee
+TC -> Technical Committeestandardization 
 SC -> Sub-Committee
 WG -> Working Group
 IEC -> International ElectrotechnicalCommission
@@ -49,7 +49,7 @@ WD -> Working Draft
 CD -> Committee Draft
 DIS -> Draft International Standard
 IS -> International Standard
-ITU-T -> International Telecommunication Union - Telecommunication standardization sector
+ITU-T -> International Telecommunication Union - Telecommunication sector
 ANSI -> American National Standards Institute //
 IEEE -> Institute of Electrical and Electronics Engineers
 EIA -> Electronic Industries Association
