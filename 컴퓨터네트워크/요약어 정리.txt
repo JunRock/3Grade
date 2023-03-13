@@ -64,3 +64,15 @@ SNS -> Social Network Service
 李華燮 부
 崔允浩 외
 李美子 등
+LTE, 5G 알아보기
+<3주차>
+POTS -> Plain Old Telephone System
+MAC -> Multiple Access Control(중앙집중형 다중접근제어) -> 컴퓨터가 폴링하는 시스템에서 사용가능 
+PSTN -> Public Switched Telephone Network
+CE -> Circuit Establishment
+DT -> Data Transfer
+CT -> Circuit Termination
+PAD -> Packet Assembler and Disassembler
+VC -> Virtual Circuit
+VCI -> Virtual Circuit Identifier
+
