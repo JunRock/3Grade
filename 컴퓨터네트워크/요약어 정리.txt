@@ -75,4 +75,10 @@ CT -> Circuit Termination
 PAD -> Packet Assembler and Disassembler
 VC -> Virtual Circuit
 VCI -> Virtual Circuit Identifier
+AT -> Asynchronous Transmission(비동기식 전송 방식)
+
+
+※<디지털 전송의 단점>
+완벽한 구현이 어려움
+회로의 구조가 복잡(동기화)
 
