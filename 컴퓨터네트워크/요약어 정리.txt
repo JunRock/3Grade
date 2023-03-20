@@ -82,3 +82,7 @@ AT -> Asynchronous Transmission(비동기식 전송 방식)
 완벽한 구현이 어려움
 회로의 구조가 복잡(동기화)
 
+<4주차>
+MAC주소 -> Media Access Control Address
+NOS -> Network Operating System
+MAC -> Media Access Control
