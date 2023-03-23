@@ -86,3 +86,4 @@ AT -> Asynchronous Transmission(비동기식 전송 방식)
 MAC주소 -> Media Access Control Address
 NOS -> Network Operating System
 MAC -> Media Access Control
+TDM -> Time Division Multiplexing
