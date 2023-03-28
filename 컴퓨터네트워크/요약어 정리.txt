@@ -87,3 +87,14 @@ MAC주소 -> Media Access Control Address
 NOS -> Network Operating System
 MAC -> Media Access Control
 TDM -> Time Division Multiplexing
+
+<5주차>
+DNA -> Digital Network Architecture
+PDU -> Protocol Data Unit
+SDU -> Service Data Unit
+PCI -> Protocol Control Information
+PDU -> Protocol Data Unit
+IDU -> Interface Data Unit
+ICI -> Interface Control Information
+MHS -> Message Handing System
+FTAM-> File Transfer Access and Management
