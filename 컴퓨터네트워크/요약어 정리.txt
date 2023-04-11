@@ -87,6 +87,8 @@ MAC주소 -> Media Access Control Address
 NOS -> Network Operating System
 MAC -> Media Access Control
 TDM -> Time Division Multiplexing
+ISUP -> ISDN User Part
+IAM -> Initial Address Message
 
 <5주차>
 DNA -> Digital Network Architecture
@@ -99,3 +101,18 @@ ICI -> Interface Control Information
 MHS -> Message Handing System
 FTAM-> File Transfer Access and Management
 
+<6주차>
+SCD -> Signal Conversion Device
+NRZ -> Non-Return to zero
+NRZ-L -> Non-Return to zero Level
+NRZ-I -> Non-Return to zero Invert
+RZ -> Return to zero
+Bipolar AMI -> Bipolar Alternate Mark Inversion
+DSL -> Digital Subscriber Line
+FTTH -> Fiber-To-The-Home
+MPEG -> Moving Picture Experts Group
+POTS -> Plain Old telephone service
+
+
+Modem osi bps iso 나옴
+72000/7 하면됌
