@@ -30,7 +30,7 @@ SDLC -> Synchronous Data Link Control
 FCS -> Frame Check Sequence
 EDI -> Electronic Data Interchange
 FTP -> File Transfer Protocol
-OSI -> Open System Interconnection //
+OSI -> Open Systems Interconnection //
 SNA -> Systems Network Architecture
 TCP/IP -> Transmission Control Protocol/Internet Protocol //
 RFC -> Request For Comments //
