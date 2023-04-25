@@ -1,0 +1,7 @@
+<04.25>
+UTP -> Unshielded Twisted-Pair
+STP -> Shielded Twisted-Pair
+BNC -> Bayonet Neil-Concelman connector
+RG -> Radio Government
+RGB -> Red, Green, Blue
+LED -> Light Emitting Diode

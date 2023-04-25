@@ -1,0 +1,118 @@
+<1주차>
+IoT -> Internet of Things
+ICBM -> IoT, Cloud, Bigdata, Mobile
+IoE -> Internet of Everything
+Saas -> Software as a Service
+Paas -> Platform as a Service
+Iaas -> Infrastructure as a Service
+AI -> Artificial Intelligence
+ML -> Machine Learning
+DL -> Deep Learning
+ISDN -> Integrated Service Digital Network
+순천향대학교 -> SoonChunhyang university
+
+※ABCD -> Ai, Blockchain, Cloud, Data
+
+<2주차>
+ASCII -> American Standard Code for Information Interchange
+EBCDIC -> Extended Binary Coded Decimal Interchange Code
+VRS -> Video Response System
+SAGE -> Semi-Automatic Ground Envirinment //
+SABRE -> Semi-Automatic Business Research Environment
+ARPANET -> Advanced Research Project Agency Network
+DTE -> Data Terminal Equipment //
+DCE -> Data Communication Equipment
+MODEM -> Modulation Demodulation //
+DSU -> Digital Service Unit
+CSU -> Channel Service Unit
+HDLC -> High-level Data Link Control //
+SDLC -> Synchronous Data Link Control
+FCS -> Frame Check Sequence
+EDI -> Electronic Data Interchange
+FTP -> File Transfer Protocol
+OSI -> Open Systems Interconnection //
+SNA -> Systems Network Architecture
+TCP/IP -> Transmission Control Protocol/Internet Protocol //
+RFC -> Request For Comments //
+PAN -> Personal Area Network
+LAN -> Local Area Network //
+MAN -> Metropolitan Area Network
+WAN -> Wide Area Network
+EFT -> Electronic Fund Transfer
+ISO -> International Standardization Organization(정식 명칭: International Organization for Standardization) //
+TC -> Technical Committeestandardization 
+SC -> Sub-Committee
+WG -> Working Group
+IEC -> International ElectrotechnicalCommission
+NWI -> New Work Item
+WD -> Working Draft
+CD -> Committee Draft
+DIS -> Draft International Standard
+IS -> International Standard
+ITU-T -> International Telecommunication Union - Telecommunication sector
+ANSI -> American National Standards Institute //
+IEEE -> Institute of Electrical and Electronics Engineers
+EIA -> Electronic Industries Association
+TTA -> Telecommunications Technology Association
+KICS -> Korean Information and Communication Standards
+SNS -> Social Network Service
+부모님, 본인이름 학교 한자도 적기
+순천향대학교 -> SOONCHUNHYANG UNIVERSITY, 順天鄉大學
+
+李俊錫 본
+崔有淑 모
+李華燮 부
+崔允浩 외
+李美子 등
+LTE, 5G 알아보기
+<3주차>
+POTS -> Plain Old Telephone System
+MAC -> Multiple Access Control(중앙집중형 다중접근제어) -> 컴퓨터가 폴링하는 시스템에서 사용가능 
+PSTN -> Public Switched Telephone Network
+CE -> Circuit Establishment
+DT -> Data Transfer
+CT -> Circuit Termination
+PAD -> Packet Assembler and Disassembler
+VC -> Virtual Circuit
+VCI -> Virtual Circuit Identifier
+AT -> Asynchronous Transmission(비동기식 전송 방식)
+
+
+※<디지털 전송의 단점>
+완벽한 구현이 어려움
+회로의 구조가 복잡(동기화)
+
+<4주차>
+MAC주소 -> Media Access Control Address
+NOS -> Network Operating System
+MAC -> Media Access Control
+TDM -> Time Division Multiplexing
+ISUP -> ISDN User Part
+IAM -> Initial Address Message
+
+<5주차>
+DNA -> Digital Network Architecture
+PDU -> Protocol Data Unit
+SDU -> Service Data Unit
+PCI -> Protocol Control Information
+PDU -> Protocol Data Unit
+IDU -> Interface Data Unit
+ICI -> Interface Control Information
+MHS -> Message Handing System
+FTAM-> File Transfer Access and Management
+
+<6주차>
+SCD -> Signal Conversion Device
+NRZ -> Non-Return to zero
+NRZ-L -> Non-Return to zero Level
+NRZ-I -> Non-Return to zero Invert
+RZ -> Return to zero
+Bipolar AMI -> Bipolar Alternate Mark Inversion
+DSL -> Digital Subscriber Line
+FTTH -> Fiber-To-The-Home
+MPEG -> Moving Picture Experts Group
+POTS -> Plain Old telephone service
+
+
+Modem osi bps iso 나옴
+72000/7 하면됌
