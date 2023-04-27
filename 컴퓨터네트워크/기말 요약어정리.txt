@@ -5,3 +5,4 @@ BNC -> Bayonet Neil-Concelman connector
 RG -> Radio Government
 RGB -> Red, Green, Blue
 LED -> Light Emitting Diode
+ILD -> Injection Laser Diode
