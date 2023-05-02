@@ -6,3 +6,28 @@ RG -> Radio Government
 RGB -> Red, Green, Blue
 LED -> Light Emitting Diode
 ILD -> Injection Laser Diode
+GI -> Graded Index
+
+<05.01>
+VLF -> Very Low  Frequency
+LF -> Low Frequency
+MF -> Middle Frequency
+RDF -> Radio Direction Finding
+HF -> High-Frequency
+SW -> Short Wave
+CB -> Citizen's band
+VHF -> Very High Frequency
+UHF -> Ultra High Frequency
+SHF -> SuperHigh Frequency
+EHF -> Externally High Frequency
+VSAT -> Very Small Aperture Terminal
+LEO -> Low Earth Orbit
+MEO -> Medium Earth Orbit
+GEO -> Geostationary Orbit
+
+<05.02>
+EMI -> Electro Magnetic Interference
+VDT증후군 -> Video Display Terminal Syndrome
+EMS -> Electro Magnetic Susceptibility
+
+ 
