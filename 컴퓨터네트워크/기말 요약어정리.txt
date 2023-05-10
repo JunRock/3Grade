@@ -30,7 +30,10 @@ EMI -> Electro Magnetic Interference
 VDT증후군 -> Video Display Terminal Syndrome
 EMS -> Electro Magnetic Susceptibility
 LOS ->Light-Of-Sight
+
+<10장>
 CRC -> Cyclic Redundancy Check
 VRC -> Vertical Redundancy Check
 LRC -> Longitudinal Redundancy
 BCC -> Block Check Character
+ARQ -> Automatic Repeat reQuest, Automatic Repeat-Query
