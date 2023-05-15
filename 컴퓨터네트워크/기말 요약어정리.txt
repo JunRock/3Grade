@@ -37,3 +37,7 @@ VRC -> Vertical Redundancy Check
 LRC -> Longitudinal Redundancy
 BCC -> Block Check Character
 ARQ -> Automatic Repeat reQuest, Automatic Repeat-Query
+BEC -> Backward Error Control
+FEC -> Forward Error Correction
+RTS -> Request to Send
+CTS -> Clear to Send
