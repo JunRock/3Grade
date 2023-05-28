@@ -1,5 +1,28 @@
-<04.25>
+<7장>
+DTE -> Data Terminal Equipment
+DCE -> Data Circuit-terminating Equipment
+RS-232C -> Recommended Standard-232C
+ITU-T -> International Telecommunication Union-Telecommunication
+DTR -> Data Terminal Ready
+DSR -> Data Set Ready
+RTS -> Request To Send
+CTS -> Clear To Send
+EIA -> Electronic Industries Association
+PSTN -> Public Switched Telephone Network
+ISO -> International Standards Organization
+TIA -> Telecommunications Industry Association
+ANSI -> American National Standards Institute
+SIG -> Signal Ground
+CD -> Carrier Datect
+RI -> Ring Indication
+HSSI -> High-Speed serial Interface
+USB -> Universal Serial Bus
+SCSI -> Small Computer System Interface
+HIPPI -> High Performance Parallel Interface
+
+<8장>
 UTP -> Unshielded Twisted-Pair
+RJ -> Registered Jack
 STP -> Shielded Twisted-Pair
 BNC -> Bayonet Neil-Concelman connector
 RG -> Radio Government
@@ -7,8 +30,6 @@ RGB -> Red, Green, Blue
 LED -> Light Emitting Diode
 ILD -> Injection Laser Diode
 GI -> Graded Index
-
-<05.01>
 VLF -> Very Low  Frequency
 LF -> Low Frequency
 MF -> Middle Frequency
@@ -20,16 +41,58 @@ VHF -> Very High Frequency
 UHF -> Ultra High Frequency
 SHF -> SuperHigh Frequency
 EHF -> Externally High Frequency
+Transponder -> TRANSmitter + resPONDER
 VSAT -> Very Small Aperture Terminal
 LEO -> Low Earth Orbit
 MEO -> Medium Earth Orbit
 GEO -> Geostationary Orbit
-
-<05.02>
+MSC -> Mobile Switching Center
+MTSO -> Mobile Telephone Switching Office
 EMI -> Electro Magnetic Interference
 VDT증후군 -> Video Display Terminal Syndrome
 EMS -> Electro Magnetic Susceptibility
-LOS ->Light-Of-Sight
+LOS -> Light-Of-Sight
+
+<9장>
+FDM -> Frequency Division Multiplexing
+TDM -> Time Division Multiplexing
+CDM -> Code Division Multiplexing
+동기식 TDM -> Synchronous Time Division Multiplexing
+통계적 TDM -> Statistical Time Division Multiplexing
+PSK -> Phase Shift Keying
+FSK -> Frequency Shift Keying
+DSL -> Digital Subscriber Line
+FTTH -> Fiber-To-The Home
+ADSL -> Asymmetric Digital Subscriber Line
+HDSL -> High Bit Rate Digital Subscriber Line
+RADSL -> Rate Adaptive Digital Subscriber Line
+SDSL -> Single Line Digital Subscriber Line
+VDSL -> Very High Rate Digital Subscriber Line
+DMT -> Discrete Multitone Technique
+QAM -> Quadrature Amplitude Modulation
+SONET -> Synchronous Optical Network
+SDH -> Synchronous Digital Hierarchy
+PDH -> Plesiochronous Digital Hierarchy
+OAM -> Operation, Administration, and Maintenance
+STS -> Synchronous Transport Siganal
+STM ->  Synchronous Transmission Module
+AU -> Administrative Unit
+MSOH -> Multiplex Section Overhead
+RSOH -> Regenerator Section Overhead
+VC -> Virtual COntainer
+POH -> Path Overhead
+C -> Container
+VT -> Virtual Tributary
+WDM -> Wavelength Division Multiplexing
+WRN -> Wavelength Routing Network
+LZW -> Lempel-Ziv-Welch
+BCD -> Binary-coded-decima
+JPEG -> Joint Photographic Experts Group
+GIF -> Gaphics Interchange Format
+M-JPEG -> Motion JPEG
+VCEG -> Video Coding Experts Group
+HPVC -> High Performance Video Coding
+MPEG -> Moving Picture Expert Group
 
 <10장>
 CRC -> Cyclic Redundancy Check
@@ -41,3 +104,7 @@ BEC -> Backward Error Control
 FEC -> Forward Error Correction
 RTS -> Request to Send
 CTS -> Clear to Send
+
+
+
+
