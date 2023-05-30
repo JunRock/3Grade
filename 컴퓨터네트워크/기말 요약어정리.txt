@@ -97,6 +97,7 @@ MPEG -> Moving Picture Expert Group
 <10장>
 CRC -> Cyclic Redundancy Check
 VRC -> Vertical Redundancy Check
+BSC -> Block Sum Check							
 LRC -> Longitudinal Redundancy
 BCC -> Block Check Character
 ARQ -> Automatic Repeat reQuest, Automatic Repeat-Query
@@ -105,6 +106,42 @@ FEC -> Forward Error Correction
 RTS -> Request to Send
 CTS -> Clear to Send
 
+<11장>
+FCFS -> First-Come First-Serve
+ENQ/ACK -> Enquiry/acknowledgment
+BLAST -> Blocked Asynchronous Transmission
+BSC -> Binary Synchronous Communication
+STX -> Start of TeXt
+ETX -> End of TeXt
+SDLC -> Synchronous Data Link Control
+SNA -> Systems Network Architecture
+HDLC -> High-Level Data Link Control
+LAPs -> LAPS, LAPD, LAPM, LAPX, etc
+P/F -> Poll/final bit
+RR -> Receive Ready
+RNR -> Receive Net ready
+SREJ -> Selective-reject
+REJ -> Reject
 
-
-
+<12장>
+LAN -> Local Area Network
+MAC -> Medium Access Control
+LLC -> Logical Link Control
+FDDI -> Fiber Distributed Data Interface
+DQDB -> Distributed-Queue, Dual-bus
+RF -> Radio Frequency
+MA -> Multiple Access
+CSMA -> Carrier Sense Multiple Access
+CSMA/CD -> Carrier Sense Multiple Access/Collision Detection
+CSMA/CA -> Carrier Sense Multiple Access/Collision Avoidance
+SFD -> Start Frame Delimiter
+DSAP -> Destination Service Access Point
+SD -> Start Delimiter 
+AC -> Access Control 
+FC -> Frame Control 
+ED -> End Delimiter 
+FS -> Frame Status
+Wi-Fi -> Wireless Fidelity
+HiperLAN -> High Performance Radio LAN
+ALOHA -> Additive Links On-line Hawaii Area network
+PARC -> Palo Alto Research Center
